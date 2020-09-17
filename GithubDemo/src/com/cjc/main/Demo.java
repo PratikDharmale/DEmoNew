@@ -21,6 +21,11 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("Hello 1");
 		
+		Demo d=new Demo();
+		d.sum();
+		d.sub();
+		d.mul();
+		
 		
 	}
 
