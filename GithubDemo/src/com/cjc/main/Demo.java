@@ -11,6 +11,11 @@ public class Demo {
 	{
 		System.out.println("sub");
 	}
+	
+	public void mul()
+	{
+		System.out.println("mul");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
