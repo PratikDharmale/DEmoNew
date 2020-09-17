@@ -15,6 +15,7 @@ public class Demo {
 	public void mul()
 	{
 		System.out.println("mul");
+		System.out.println("mul1");
 	}
 
 	public static void main(String[] args) {
@@ -23,6 +24,7 @@ public class Demo {
 		
 		Demo d=new Demo();
 		d.sum();
+		
 		
 		
 		
