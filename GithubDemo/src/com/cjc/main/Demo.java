@@ -23,8 +23,7 @@ public class Demo {
 		
 		Demo d=new Demo();
 		d.sum();
-		d.sub();
-		d.mul();
+		
 		
 		
 	}
